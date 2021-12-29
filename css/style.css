@@ -16,7 +16,7 @@ body {
 .image-vector {
   width: 50vw;
   height: 50vh;
-  background: url(/Assets/undraw-upload.svg) no-repeat center;
+  background: url(https://raw.githubusercontent.com/Priyadarshan2000/FILE-SHARE/ebf0e5eb430f355d39b20098777d4b7b4f1871ee/Assets/undraw-upload.svg?token=AO7U3DWE646IRVC3VXQ3CNDBZSFVO) no-repeat center;
   background-size: contain;
 }
 
